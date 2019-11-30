@@ -1,6 +1,4 @@
-# A program made by DannyP
-# if you don't know who, just imagine Adnpst but a far better programmer
-# and a total chad
+
 import tweepy
 import time
 
